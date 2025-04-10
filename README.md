@@ -37,11 +37,4 @@ The dataset includes:
 - Certain **regions & product categories** contribute more to total sales.  
 - **Discount** affects sales but does not always increase revenue.  
 
-## **🚀 Future Improvements**  
-- Implement **Advanced Machine Learning Models** (Random Forest, XGBoost).  
-- Integrate **Real-time Sales Dashboards** using Power BI/Tableau.  
 
-## **📌 How to Run the Project?**  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/yourusername/sales-data-analysis.git
